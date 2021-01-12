@@ -1,3 +1,7 @@
+#Cline
+.idea
+#MacOS
+.DS_Store
 # C++ objects and libs
 *.slo
 *.lo
